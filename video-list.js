@@ -6,52 +6,52 @@ let allVideos = [
    },
    {
       name: "Make Working Firefox Search Engine",
-      src: "https://www.youtube.com/embed/K2VfC9ZYQss",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_2"
    },
    {
       name: "Button Hover Effect",
-      src: "https://www.youtube.com/embed/dOvLae3VlAk",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_3"
    },
    {
       name: "Confirm Password using Html CSS & js part-1",
-      src: "https://www.youtube.com/embed/li7NA395L-E",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_4"
    },
    {
       name: "Confirm Password using Html CSS & js part-2",
-      src: "https://www.youtube.com/embed/N-klM6y_AtY",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_5"
    },
    {
       name: "Creative Card Hover Effect",
-      src: "https://www.youtube.com/embed/bk7iVHlRnHU",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_6"
    },
    {
       name: "Glassmorphism Calculater UI Design",
-      src: "https://www.youtube.com/embed/zO6zgt-C-vQ",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_7"
    },
    {
       name: "Creative Our Team Section",
-      src: "https://www.youtube.com/embed/osd8Lqn_oVs",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_8"
    },
    {
       name: "Filter Text Animation Using Html and CSS",
-      src: "https://www.youtube.com/embed/6SO2deNHoCM",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_9"
    },
    {
       name: "Vertical Navigation Bar",
-      src: "https://www.youtube.com/embed/hvEa8pnUjCE",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_10"
    },
    {
       name: "How to make Read More Function",
-      src: "https://www.youtube.com/embed/Bk3Pe5XPgUI",
+      src: "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
       id: "vid_11"
    }
 ]
